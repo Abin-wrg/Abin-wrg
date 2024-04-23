@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abin
 - 👀 I’m interested in Everything 😋
-- 🌱 I’m currently learning Angular,Pyhon
+- 🌱 I’m currently learning Angular,Python
 - 💞️ I’m looking to collaborate on 😂
 - 📫 How to reach me 🤗
 
